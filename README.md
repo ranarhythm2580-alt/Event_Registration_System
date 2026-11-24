@@ -1,0 +1,1 @@
+A beginner-friendly Python-based Event Registration System that allows users to register participants, cancel registrations, view participant lists, and check available seats. Built using basic Python concepts such as lists, loops, conditional statements, and built-in functions.
